@@ -1,0 +1,87 @@
+body {
+	font-family: sans;
+	margin-top: 0;
+}
+a:link {
+	color: #231111;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover {
+	color: #E4401F;
+	text-decoration: underline;
+}
+
+#wrapper {
+	box-shadow: 0 0 8px #CCCCCC;
+}
+
+/* header *
+  ------- */
+  
+#header {
+	text-align: center;
+	background-color: #E4401F;
+	border-radius: 0 0 5px 5px;
+	height: 200px;
+	margin-bottom: 1em;
+}
+
+/* content *
+  -------- */
+  
+.item {
+	border-radius: 5px;
+	background-color: #e8e8e8;
+	float: left;
+	margin: 0 1em 1em 0;
+	min-height: 220px;
+	width: 205px;
+	padding: 0 8px;
+	background-repeat: no-repeat;
+	background-position: 8px 88px;
+}
+.item ul {
+	padding-left: 110px;
+	font-size: 10pt;
+	list-style-image: url('../images/arrow.png');
+}
+.item ul li {
+	margin-bottom: 4px;
+}
+#infos {
+	clear: both;
+}
+
+.hidden,
+#header h1, #header h2,
+#akademyfr h2, #drupalcamp h2, #upt h2 {
+	font-size: 0pt;
+	margin-top: -1px;
+	margin-left: -1px;
+}
+#akademyfr {
+	background-image: url('../images/akademyfr.png');
+	margin-right: 0;
+}
+#drupalcamp {
+	background-image: url('../images/drupalcamp.png');
+}
+#upt {
+	background-image: url('../images/upt.png');
+}
+
+/* partners *
+  ------- */
+  
+#partners ul {
+	list-style-type: none;
+	padding-left: 0;
+	text-align: center;
+}
+#partners, #infos {
+	padding: 10px;
+	border-radius: 5px;
+	background-color: #e8e8e8;
+	margin-bottom: 1em;
+}
