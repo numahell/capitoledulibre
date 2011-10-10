@@ -76,12 +76,15 @@ h1, h2 { color: #E4401F; }
 /* partners *
   ------- */
   
-#partners ul {
+.logos ul {
 	list-style-type: none;
 	padding-left: 0;
 	text-align: center;
 }
-#partners, #infos {
+.logos ul li {
+	margin-bottom: 0.5em;
+}
+.logos, #infos {
 	padding: 10px;
 	border-radius: 5px;
 	background-color: #e8e8e8;
