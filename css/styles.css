@@ -85,6 +85,10 @@ h1, h2 { color: #E4401F; }
     text-align: center;
 }
 
+.grid_4 a:link {
+    border-bottom: 0px;
+}
+
 /* partners *
   ------- */
   
