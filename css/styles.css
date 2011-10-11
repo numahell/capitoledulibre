@@ -6,10 +6,11 @@ a:link, a:visited {
 	color: #231111;
 	font-weight: bold;
 	text-decoration: none;
+	border-bottom:1px dotted black;
 }
 a:hover {
 	color: #E4401F;
-	text-decoration: underline;
+	border-bottom:1px dotted #E4401F;
 }
 h1, h2 { color: #E4401F; }
 #wrapper {
@@ -36,6 +37,10 @@ h1, h2 { color: #E4401F; }
 #description {
 	border-radius: 5px;
 	background-color: #e8e8e8;
+	text-align: justify;
+	padding: 0.5em;
+	margin: 0 0.5em 0.5em 0;
+	line-height: 130%;
 }
 .item {
 	border-radius: 5px;
@@ -43,7 +48,7 @@ h1, h2 { color: #E4401F; }
 	float: left;
 	margin: 0 1em 1em 0;
 	min-height: 220px;
-	width: 208px;
+	width: 200px;
 	padding: 0 8px;
 	background-repeat: no-repeat;
 	background-position: 8px 80px;
