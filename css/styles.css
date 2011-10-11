@@ -12,6 +12,10 @@ a:hover {
 	color: #E4401F;
 	border-bottom:1px dotted #E4401F;
 }
+.logos a:link,
+.logos a:visited {
+    border-bottom: 0px;
+}
 h1, h2 { color: #E4401F; }
 #wrapper {
 	box-shadow: 0 0 8px #CCCCCC;
@@ -35,18 +39,14 @@ h1, h2 { color: #E4401F; }
   -------- */
   
 #description {
-	border-radius: 5px;
-	background-color: #e8e8e8;
 	text-align: justify;
-	padding: 0.5em;
-	margin: 0 0.5em 0.5em 0;
 	line-height: 130%;
 }
 .item {
 	border-radius: 5px;
 	background-color: #e8e8e8;
 	float: left;
-	margin: 0 1em 1em 0;
+	margin-bottom: 1em;
 	min-height: 220px;
 	width: 204px;
 	padding: 0 8px;
@@ -72,21 +72,26 @@ h1, h2 { color: #E4401F; }
 }
 #akademyfr {
 	background-image: url('../images/akademyfr.png');
-	margin-right: 0;
+	float: right;
 }
 #drupalcamp {
 	background-image: url('../images/drupalcamp.png');
+	margin-right: 1.5em;
 }
 #upt {
 	background-image: url('../images/upt.png');
 }
 
-.grid_4 {
-    text-align: center;
+#description,
+.logos, #infos {
+	padding: 8px;
+	border-radius: 5px;
+	background-color: #e8e8e8;
+	margin-bottom: 1em;
 }
 
-.grid_4 a:link {
-    border-bottom: 0px;
+.logos {
+    text-align: center;
 }
 
 /* partners *
@@ -99,12 +104,6 @@ h1, h2 { color: #E4401F; }
 }
 .logos ul li {
 	margin-bottom: 0.5em;
-}
-.logos, #infos {
-	padding: 10px;
-	border-radius: 5px;
-	background-color: #e8e8e8;
-	margin-bottom: 1em;
 }
 
 /* Infos *
