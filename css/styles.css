@@ -24,11 +24,20 @@ h1, h2 { color: #E4401F; }
 	background-color: #E4401F;
 	border-radius: 0 0 5px 5px;
 	margin-bottom: 1em;
+	min-height: 220px;
 }
 #header, #header h1, #header h2 {
 	color: #FFFFFF;
 }
 
+#description {
+	position: absolute;
+	top: 0;
+	margin: 0.5em 1em;
+	width: 100%
+	background-color: #000;
+	color: #FFF;
+}
 /* content *
   -------- */
   
@@ -55,9 +64,7 @@ h1, h2 { color: #E4401F; }
 	clear: both;
 }
 
-.hidden,
-#header h1, 
-#akademyfr h2, #drupalcamp h2, #upt h2 {
+.hidden {
 	font-size: 0pt;
 	margin-top: -1px;
 	margin-left: -1px;
