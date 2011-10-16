@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5308737"
-     inkscape:cx="223.01217"
-     inkscape:cy="105.59344"
+     inkscape:cx="302.02808"
+     inkscape:cy="228.09167"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -66,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1463,34 +1463,34 @@
        sodipodi:linespacing="125%"
        id="text5037"
        y="123.35413"
-       x="155.78006"
-       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e4401f;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium Italic"
+       x="185.15625"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e4401f;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium Italic"
        xml:space="preserve"><tspan
          y="123.35413"
-         x="155.78006"
+         x="185.15625"
          id="tspan5039"
-         sodipodi:role="line">techniques</tspan></text>
+         sodipodi:role="line">technique</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e4401f;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium Italic"
-       x="151.61841"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e4401f;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium Italic"
+       x="185.32153"
        y="85.948631"
        id="text5017"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5019"
-         x="151.61841"
+         x="185.32153"
          y="85.948631">grand public</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e4401f;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium Italic"
-       x="154.44627"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e4401f;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium Italic"
+       x="185.32518"
        y="171.94942"
        id="text5041"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5043"
-         x="154.44627"
+         x="185.32518"
          y="171.94942">multimedia</tspan></text>
     <text
        sodipodi:linespacing="125%"
@@ -1505,15 +1505,15 @@
          sodipodi:role="line">zen</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1d5d9e;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium Italic"
-       x="82.958885"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#1d5d9e;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium Italic"
+       x="175.3047"
        y="258.30994"
        id="text5049"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5051"
-         x="82.958885"
-         y="258.30994">basic : débutants</tspan></text>
+         x="175.3047"
+         y="258.30994">basic (grand public)</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5053"
@@ -1527,59 +1527,59 @@
          sodipodi:role="line">omega</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6d3b52;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium Italic"
-       x="148.41553"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6d3b52;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium Italic"
+       x="185.03662"
        y="461.08621"
        id="text5057"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5059"
-         x="148.41553"
+         x="185.03662"
          y="461.08621">contributeurs</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5061"
        y="416.41403"
-       x="151.61841"
-       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6d3b52;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium Italic"
+       x="185.32153"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6d3b52;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium Italic"
        xml:space="preserve"><tspan
          y="416.41403"
-         x="151.61841"
+         x="185.32153"
          id="tspan5063"
          sodipodi:role="line">grand public</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       x="193.86559"
-       y="277.60196"
+       x="193.58189"
+       y="280.86807"
        id="text5069"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5071"
-         x="193.86559"
-         y="277.60196">traduction</tspan></text>
+         x="193.58189"
+         y="280.86807">sprint de traduction</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       x="193.58238"
-       y="293.91846"
+       x="193.57018"
+       y="302.41034"
        id="text5073"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5075"
-         x="193.58238"
-         y="293.91846">coding</tspan></text>
+         x="193.57018"
+         y="302.41034">coding sprint</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1d5d9e;fill-opacity:1;stroke:#000000;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium Italic;stroke-opacity:0"
-       x="193.59413"
-       y="258.44781"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1d5d9e;fill-opacity:1;stroke:#000000;stroke-opacity:0;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium Italic"
+       x="193.56828"
+       y="258.31793"
        id="text5077"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5079"
-         x="193.59413"
-         y="258.44781">sprints</tspan></text>
+         x="193.56828"
+         y="258.31793">contributions</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -1617,7 +1617,7 @@
          id="flowPara3215">wikipedia, opendata, Logiciel libre et ESS ...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3217"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="translate(-6.699847,-21.650032)"><flowRegion
          id="flowRegion3219"><rect
            id="rect3221"
@@ -1625,9 +1625,9 @@
            height="19.061974"
            x="199.649"
            y="115.07882"
-           style="font-size:12px" /></flowRegion><flowPara
+           style="font-size:13px" /></flowRegion><flowPara
          id="flowPara3223">Initiation à Ubuntu</flowPara></flowRoot>    <flowRoot
-       transform="translate(-4.9342387,11.728163)"
+       transform="translate(-4.9342387,13.728163)"
        style="font-size:10px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        id="flowRoot3239"
        xml:space="preserve"><flowRegion
@@ -1641,20 +1641,20 @@
          id="flowPara3245">Tango, Internet, Qualité dans Debian, OpenStack, 20 ans de Linux</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3247"
-       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       transform="translate(140.80113,11.728163)"><flowRegion
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(140.78892,16.300715)"><flowRegion
          id="flowRegion3249"><rect
            id="rect3251"
            width="131.74467"
            height="33.811596"
            x="52.775082"
            y="112.06903"
-           style="font-size:10px;text-align:start;text-anchor:start" /></flowRegion><flowPara
+           style="font-size:12px;text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara3253">création de paquets Debian, atelier Cloud</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3257"
        style="font-size:10px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       transform="translate(-8.9967387,59.81756)"><flowRegion
+       transform="translate(-8.9967387,61.81756)"><flowRegion
          id="flowRegion3259"><rect
            id="rect3261"
            width="138.16484"
@@ -1663,7 +1663,7 @@
            y="112.06903"
            style="font-size:10px;text-align:end;text-anchor:end" /></flowRegion><flowPara
          id="flowPara3263">MyPaint, Blender, Darktable, MAO, FLOSS Manuals fr, Scribus ...</flowPara></flowRoot>    <flowRoot
-       transform="translate(138.09996,59.81756)"
+       transform="translate(138.1981,61.81756)"
        style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        id="flowRoot3265"
        xml:space="preserve"><flowRegion
@@ -1737,17 +1737,17 @@
          id="flowPara3315">QML, Calligra, traductions, KDE Frameworks ...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3317"
-       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       transform="translate(137.77769,307.91427)"><flowRegion
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(137.67955,314.44649)"><flowRegion
          id="flowRegion3319"><rect
            id="rect3321"
            width="53.987408"
            height="17.388208"
            x="55.38797"
            y="112.06903"
-           style="font-size:10px;text-align:start;text-anchor:start" /></flowRegion><flowPara
+           style="font-size:12px;text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara3323">Digikam</flowPara></flowRoot>    <flowRoot
-       transform="translate(138.49058,354.10402)"
+       transform="translate(138.58873,352.72902)"
        style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        id="flowRoot3325"
        xml:space="preserve"><flowRegion
