@@ -279,10 +279,10 @@
      inkscape:cx="193.92285"
      inkscape:cy="209.15524"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1680"
-     inkscape:window-height="976"
+     inkscape:window-height="973"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -313,7 +313,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1355,7 +1355,7 @@
          sodipodi:role="line">grand public</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="193.58189"
        y="296.86807"
        id="text5069"
@@ -1366,7 +1366,7 @@
          y="296.86807">Sprint de traduction</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="193.57018"
        y="318.41034"
        id="text5073"
@@ -1411,7 +1411,7 @@
          id="flowPara3207" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3209"
-       style="font-size:10px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="translate(-7.2779887,-8.038216)"><flowRegion
          id="flowRegion3211"><rect
            id="rect3213"
@@ -1419,11 +1419,12 @@
            height="31.101099"
            x="46.150021"
            y="112.06903"
-           style="font-size:10px;text-align:end;text-anchor:end" /></flowRegion><flowPara
-         id="flowPara3215">Wkipedia, Opendata, Logiciel libre et ESS ...</flowPara></flowRoot>    <flowRoot
+           style="font-size:9px;text-align:end;text-anchor:end" /></flowRegion><flowPara
+         id="flowPara3215">Wikipedia, Opendata, </flowPara><flowPara
+         id="flowPara3301">Logiciel libre et ESS...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3217"
-       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="translate(-6.699847,-3.650032)"><flowRegion
          id="flowRegion3219"><rect
            id="rect3221"
@@ -1431,14 +1432,14 @@
            height="19.061974"
            x="199.649"
            y="115.07882"
-           style="font-size:10px" /></flowRegion><flowPara
+           style="font-size:9px" /></flowRegion><flowPara
          id="flowPara3223">Initiation à Ubuntu</flowPara></flowRoot>    <flowRoot
        transform="translate(-8.9342387,27.728163)"
-       style="font-size:10px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        id="flowRoot3239"
        xml:space="preserve"><flowRegion
          id="flowRegion3241"><rect
-           style="font-size:10px;text-align:end;text-anchor:end"
+           style="font-size:9px;text-align:end;text-anchor:end"
            y="112.06903"
            x="46.150021"
            height="37.5396"
@@ -1448,7 +1449,7 @@
          id="flowPara3344">Qualité dans Debian, OpenStack, 20 ans de Linux</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3247"
-       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="translate(140.78892,35.301405)"><flowRegion
          id="flowRegion3249"><rect
            id="rect3251"
@@ -1456,12 +1457,12 @@
            height="36.424484"
            x="52.775082"
            y="112.06903"
-           style="font-size:10px;text-align:start;text-anchor:start" /></flowRegion><flowPara
+           style="font-size:9px;text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara3253">Création de paquets Debian, </flowPara><flowPara
          id="flowPara3346">Atelier Cloud</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3257"
-       style="font-size:10px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="translate(-11.027989,77.81756)"><flowRegion
          id="flowRegion3259"><rect
            id="rect3261"
@@ -1469,16 +1470,16 @@
            height="40.573044"
            x="46.150021"
            y="112.06903"
-           style="font-size:10px;text-align:end;text-anchor:end" /></flowRegion><flowPara
+           style="font-size:9px;text-align:end;text-anchor:end" /></flowRegion><flowPara
          id="flowPara3263">MyPaint, Blender, </flowPara><flowPara
          id="flowPara8342">Darktable, MAO, </flowPara><flowPara
          id="flowPara8340">FLOSS Manuals fr, Scribus</flowPara></flowRoot>    <flowRoot
        transform="translate(138.1981,77.81756)"
-       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        id="flowRoot3265"
        xml:space="preserve"><flowRegion
          id="flowRegion3267"><rect
-           style="font-size:10px;text-align:start;text-anchor:start"
+           style="font-size:9px;text-align:start;text-anchor:start"
            y="112.06903"
            x="55.38797"
            height="40.433834"
@@ -1487,11 +1488,11 @@
          id="flowPara3271">Inkscape, Blender, Gimp, Scribus, Ardour, </flowPara><flowPara
          id="flowPara3348">Peinture numérique</flowPara></flowRoot>    <flowRoot
        transform="translate(-4.2779887,165.33101)"
-       style="font-size:10px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        id="flowRoot3277"
        xml:space="preserve"><flowRegion
          id="flowRegion3279"><rect
-           style="font-size:10px;text-align:end;text-anchor:end"
+           style="font-size:9px;text-align:end;text-anchor:end"
            y="110.68334"
            x="44.302429"
            height="25.240475"
@@ -1500,7 +1501,7 @@
          id="flowPara3283">Traduction, Distributions, DrupalCommerce ...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3285"
-       style="font-size:10px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="translate(-4.2779887,200.58763)"><flowRegion
          id="flowRegion3287"><rect
            id="rect3289"
@@ -1508,23 +1509,23 @@
            height="25.240475"
            x="44.302429"
            y="110.68334"
-           style="font-size:10px;text-align:end;text-anchor:end" /></flowRegion><flowPara
-         id="flowPara3291">Intégration continue, OG, Security, Varnish &amp; ESI ...</flowPara></flowRoot>    <flowRoot
+           style="font-size:9px;text-align:end;text-anchor:end" /></flowRegion><flowPara
+         id="flowPara3291">Intégration continue, OG, Security, Varnish &amp; ESI...</flowPara></flowRoot>    <flowRoot
        transform="translate(-4.2779887,236.30615)"
-       style="font-size:10px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        id="flowRoot3293"
        xml:space="preserve"><flowRegion
          id="flowRegion3295"><rect
-           style="font-size:10px;text-align:end;text-anchor:end"
+           style="font-size:9px;text-align:end;text-anchor:end"
            y="110.68334"
            x="44.302429"
            height="25.240475"
            width="135.2814"
            id="rect3297" /></flowRegion><flowPara
-         id="flowPara3299">Drupal et FB, Layouts, Édition, Flux, Aegir ...</flowPara></flowRoot>    <flowRoot
+         id="flowPara3299">Drupal et FB, Layouts, Édition, Flux, Aegir...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3301"
-       style="font-size:10px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="translate(-4.2779887,325.57149)"><flowRegion
          id="flowRegion3303"><rect
            id="rect3305"
@@ -1532,23 +1533,23 @@
            height="25.240475"
            x="44.302429"
            y="110.68334"
-           style="font-size:10px;text-align:end;text-anchor:end" /></flowRegion><flowPara
-         id="flowPara3307">Digikam, Plasma Active, Skrooge ...</flowPara></flowRoot>    <flowRoot
+           style="font-size:9px;text-align:end;text-anchor:end" /></flowRegion><flowPara
+         id="flowPara3307">Digikam, Plasma Active, Skrooge...</flowPara></flowRoot>    <flowRoot
        transform="translate(-4.2779887,368.10402)"
-       style="font-size:10px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        id="flowRoot3309"
        xml:space="preserve"><flowRegion
          id="flowRegion3311"><rect
-           style="font-size:10px;text-align:end;text-anchor:end"
+           style="font-size:9px;text-align:end;text-anchor:end"
            y="110.68334"
            x="44.302429"
            height="25.240475"
            width="135.2814"
            id="rect3313" /></flowRegion><flowPara
-         id="flowPara3315">QML, Calligra, Traductions, KDE Frameworks ...</flowPara></flowRoot>    <flowRoot
+         id="flowPara3315">QML, Calligra, Traductions, KDE Frameworks...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3317"
-       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="translate(137.67955,330.44649)"><flowRegion
          id="flowRegion3319"><rect
            id="rect3321"
@@ -1556,14 +1557,14 @@
            height="16.002516"
            x="55.38797"
            y="112.06903"
-           style="font-size:10px;text-align:start;text-anchor:start" /></flowRegion><flowPara
+           style="font-size:9px;text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara3323">Atelier Digikam</flowPara></flowRoot>    <flowRoot
        transform="translate(138.58873,366.72902)"
-       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        id="flowRoot3325"
        xml:space="preserve"><flowRegion
          id="flowRegion3327"><rect
-           style="font-size:10px;text-align:start;text-anchor:start"
+           style="font-size:9px;text-align:start;text-anchor:start"
            y="112.06903"
            x="55.38797"
            height="26.62616"
@@ -1585,7 +1586,7 @@
        id="text3340"
        y="341.2731"
        x="193.57018"
-       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        xml:space="preserve"><tspan
          y="341.2731"
          x="193.57018"
@@ -1593,7 +1594,7 @@
          sodipodi:role="line">Install party</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="193.69225"
        y="352.73596"
        id="text8336"
