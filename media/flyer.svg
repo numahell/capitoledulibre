@@ -16,11 +16,15 @@
    version="1.1"
    inkscape:version="0.48.1 r9760"
    sodipodi:docname="flyer.svg"
-   inkscape:export-filename="/home/manue/dev/capitoledulibre/media/flyer.png"
-   inkscape:export-xdpi="145.14"
-   inkscape:export-ydpi="145.14">
+   inkscape:export-filename="/home/ehe/Dev/capitoledulibre.org/media/flyer.png"
+   inkscape:export-xdpi="299.9946"
+   inkscape:export-ydpi="299.9946">
   <defs
      id="defs4">
+    <color-profile
+       name="Fogra27L-CMYK-Coated-Press"
+       xlink:href="/usr/share/color/icc/Fogra27L.icm"
+       id="color-profile3307" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient8232">
@@ -282,7 +286,7 @@
      inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1680"
-     inkscape:window-height="976"
+     inkscape:window-height="973"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -313,7 +317,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
