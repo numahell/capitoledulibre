@@ -1,5 +1,6 @@
 body {
 	font-family: sans;
+	font-size: 10pt;
 	margin-top: 0;
 }
 a:link, a:visited {
@@ -40,7 +41,7 @@ h1, h2 { color: #E4401F; }
   
 #description {
 	text-align: justify;
-	line-height: 130%;
+	line-height: 150%;
 }
 .item {
 	border-radius: 5px;
