@@ -84,7 +84,8 @@ h1, h2 { color: #E4401F; }
 }
 
 #description,
-.logos, #infos {
+#orga, #infos,
+#partners {
 	padding: 8px;
 	border-radius: 5px;
 	background-color: #e8e8e8;
@@ -94,16 +95,23 @@ h1, h2 { color: #E4401F; }
 .logos {
     text-align: center;
 }
+#orga .logos {
+    text-align: left;
+}
+#orga .logos li {
+    display: inline-block;
+    margin-right: 2em;
+}
 
 /* partners *
   ------- */
   
-.logos ul {
+ul.logos  {
 	list-style-type: none;
 	padding-left: 0;
 	text-align: center;
 }
-.logos ul li {
+ul.logos  li {
 	margin-bottom: 0.5em;
 }
 
