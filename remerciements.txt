@@ -2,9 +2,9 @@ L'édition 2011 du Capitole du Libre est terminée depuis un mois déjà, vous �
 
 Toulibre et Ubuntu-fr remercient l'ENSEEIHT qui a hébergé cet évènement, ainsi que les sponsors qui l'ont financé.
 
-Nous remercions également les conférenciers et intervenants qui sont venus pour certains de très loin pour donner une conférence ou animer des ateliers dans le cadre du Capitole du Libre, que ce soit pour l'Ubuntu Party, le Drupal Camp ou Akademy-fr.  
+Nous remercions également les intervenants qui sont venus pour certains de très loin pour donner une conférence ou animer des ateliers dans le cadre du Capitole du Libre, que ce soit pour l'Ubuntu Party, le Drupal Camp ou Akademy-fr.  
 
-C'est grâce à leurs conférences et ateliers et à leur présence que le public était au rendez-vous, ce qui a permis de démocratiser plus encore différents aspects du Logiciel Libre et des écosystèmes qui l'entourent. De très nombreux visiteurs ont transmis aux organisateurs des commentaires très positifs sur la qualité des conférences.
+C'est grâce à leurs participation que le public était au rendez-vous, ce qui a permis de démocratiser plus encore différents aspects du Logiciel Libre et des écosystèmes qui l'entourent. De très nombreux visiteurs ont transmis aux organisateurs des commentaires très positifs sur la qualité des conférences.
 
 Pour finir, nous remercions tout particulièrement tous les bénévoles qui ont participé à l'organisation et à l'animation du Capitole du Libre: les bénévoles qui ont pris en charge l'install-party, l'accueil / boutique / buvette, l'enregistrement vidéo, la modération des tracks de conférences, les organisateurs d'Akademy-fr et de DrupalCamp et toutes les autres personnes qui ont joué un rôle dans la mise en place de cet événement.
 
