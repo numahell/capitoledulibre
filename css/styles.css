@@ -13,8 +13,8 @@ a:hover {
 	color: #E4401F;
 	border-bottom:1px dotted #E4401F;
 }
-.logos a:link,
-.logos a:visited {
+#header a,
+.logos a {
     border-bottom: 0px;
 }
 h1, h2 { color: #E4401F; }
