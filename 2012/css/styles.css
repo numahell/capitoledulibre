@@ -1,6 +1,6 @@
 body {
 	font-family: sans;
-	font-size: 10pt;
+	font-size: 100%;
 	margin-top: 0;
 }
 a:link, a:visited {
@@ -21,6 +21,44 @@ h1, h2 { color: #E4401F; }
 #wrapper {
 	box-shadow: 0 0 8px #CCCCCC;
 }
+
+/* homepage *
+  --------- */
+
+#cdl2012 p {
+	text-align: center;
+	background: #e4401f;
+	border-radius: 1em;
+-moz-box-shadow: -10px 10px 10px 0px #9b9b9b;
+-webkit-box-shadow: -10px 10px 10px 0px #9b9b9b;
+-o-box-shadow: -10px 10px 10px 0px #9b9b9b;
+box-shadow: -10px 10px 10px 0px #9b9b9b;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+	padding: 1em 0.5em;
+	height: 50px;
+}
+#cdl2012 p a {
+	display: block;
+	font-size: 1.5em;
+	border-bottom: none;
+	color: #FFFFFF;
+	line-height: 1.5em;
+}
+#cdl2012 p a span {
+	display: block;
+	color: #ffcc00;
+-webkit-transition: 0.5s linear;
+-moz-transition: 100ms linear;
+-o-transition: 100ms linear;
+-ms-transition: 100ms linear;
+transition: 10ms linear;
+}
+#cdl2012 p a:hover span {
+	font-size: 1.5em;
+}
+
 
 /* header *
   ------- */
