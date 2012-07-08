@@ -61,14 +61,16 @@ h1, h2 { color: #E4401F; }
 	font-size: 1.5em;
 }
 
-
 /* header *
   ------- */
   
 #header {
 	text-align: center;
 	background-color: #E4401F;
-	min-height: 220px;
+	min-height: auto;
+}
+#header img {
+	max-width: 100%;
 }
 #header, #header h1, #header h2 {
 	color: #FFFFFF;
@@ -87,6 +89,7 @@ h1, h2 { color: #E4401F; }
 
 .community-event h3 {
     background: url('../images/upt.png') no-repeat 8px 8px transparent;
+    background-size: contain;
     height: 155px;
 }
 #djangofr h3 {
