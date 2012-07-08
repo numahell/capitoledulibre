@@ -2,24 +2,31 @@ body {
 	font-family: sans;
 	font-size: 100%;
 	margin-top: 0;
+    color: #333;
 }
 a:link, a:visited {
-	color: #231111;
+	color: #333;
 	font-weight: bold;
 	text-decoration: none;
-	border-bottom:1px dotted black;
+	border-bottom: 1px dotted #333;
 }
 a:hover {
 	color: #E4401F;
 	border-bottom:1px dotted #E4401F;
 }
+
+
 #header a,
 .logos a {
     border-bottom: 0px;
 }
 h1, h2 { color: #E4401F; }
-#wrapper {
-	box-shadow: 0 0 8px #CCCCCC;
+
+.hidden {
+    font: 0pt/0 a;
+    margin-top: -1px;
+    margin-left: -1px;
+    color: transparent;
 }
 
 /* homepage *
@@ -28,20 +35,20 @@ h1, h2 { color: #E4401F; }
 #cdl2012 p {
 	text-align: center;
 	background: #e4401f;
-	border-radius: 1em;
--moz-box-shadow: -10px 10px 10px 0px #9b9b9b;
--webkit-box-shadow: -10px 10px 10px 0px #9b9b9b;
--o-box-shadow: -10px 10px 10px 0px #9b9b9b;
-box-shadow: -10px 10px 10px 0px #9b9b9b;
--moz-border-radius: 10px;
--webkit-border-radius: 10px;
-border-radius: 10px;
+    -moz-box-shadow: -10px 10px 10px 0px #9b9b9b;
+    -webkit-box-shadow: -10px 10px 10px 0px #9b9b9b;
+    -o-box-shadow: -10px 10px 10px 0px #9b9b9b;
+    box-shadow: -10px 10px 10px 0px #9b9b9b;
+    -o-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
 	padding: 1em 0.5em;
 	height: 50px;
 }
 #cdl2012 p a {
 	display: block;
-	font-size: 1.5em;
+	font-size: 1.3em;
 	border-bottom: none;
 	color: #FFFFFF;
 	line-height: 1.5em;
@@ -49,11 +56,6 @@ border-radius: 10px;
 #cdl2012 p a span {
 	display: block;
 	color: #ffcc00;
--webkit-transition: 0.5s linear;
--moz-transition: 100ms linear;
--o-transition: 100ms linear;
--ms-transition: 100ms linear;
-transition: 10ms linear;
 }
 #cdl2012 p a:hover span {
 	font-size: 1.5em;
@@ -66,8 +68,6 @@ transition: 10ms linear;
 #header {
 	text-align: center;
 	background-color: #E4401F;
-	border-radius: 0 0 5px 5px;
-	margin-bottom: 1em;
 	min-height: 220px;
 }
 #header, #header h1, #header h2 {
@@ -76,69 +76,45 @@ transition: 10ms linear;
 
 /* content *
   -------- */
-  
+
 #description {
 	text-align: justify;
 	line-height: 150%;
-}
-.item {
-	border-radius: 5px;
-	background-color: #e8e8e8;
-	float: left;
-	margin-bottom: 1em;
-	min-height: 220px;
-	width: 204px;
-	padding: 0 8px;
-	background-repeat: no-repeat;
-	background-position: 8px 55px;
-}
-.item ul {
-	padding-left: 110px;
-	font-size: 10pt;
-	list-style-image: url('../images/arrow.png');
-}
-.item ul li {
-	margin-bottom: 4px;
 }
 #infos {
 	clear: both;
 }
 
-.hidden {
-	font-size: 0pt;
-	margin-top: -1px;
-	margin-left: -1px;
+.community-event {
+	background-color: #E5E5E5; 
 }
-#akademyfr {
+.community-event h3 {
+    background: url('../images/upt.png') no-repeat 8px 8px transparent;
+    height: 155px;
+}
+#djangofr h3 {
+	background-image: url('../images/djangofr.png');
+}
+#akademyfr h3 {
 	background-image: url('../images/akademyfr.png');
-	float: right;
 }
-#drupalcamp {
-	background-image: url('../images/drupalcamp.png');
-	margin-right: 1.5em;
-}
-#upt {
+#upt h3 {
 	background-image: url('../images/upt.png');
 }
 
-#description,
-#orga, #infos,
-#partners {
-	padding: 8px;
-	border-radius: 5px;
-	background-color: #e8e8e8;
-	margin-bottom: 1em;
-}
+/* sidebar *
+  -------- */
 
-.logos {
-    text-align: center;
+#sidebar .well {
+    background-color: #E5E5E5;
+    border: none;
+    -o-border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;
 }
-#orga .logos {
-    text-align: left;
-}
-#orga .logos li {
-    display: inline-block;
-    margin-right: 2em;
+.thumbnails.row-fluid {
+    margin-left: 0;
 }
 
 .image-left {
@@ -147,18 +123,3 @@ transition: 10ms linear;
 	font-size: 85%;
 	font-style: italic;
 }
-
-/* partners *
-  ------- */
-  
-ul.logos  {
-	list-style-type: none;
-	padding-left: 0;
-	text-align: center;
-}
-ul.logos  li {
-	margin-bottom: 0.5em;
-}
-
-/* Infos *
-  ------ */
