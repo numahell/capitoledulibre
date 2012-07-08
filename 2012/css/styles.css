@@ -85,9 +85,6 @@ h1, h2 { color: #E4401F; }
 	clear: both;
 }
 
-.community-event {
-	background-color: #E5E5E5; 
-}
 .community-event h3 {
     background: url('../images/upt.png') no-repeat 8px 8px transparent;
     height: 155px;
@@ -105,8 +102,7 @@ h1, h2 { color: #E4401F; }
 /* sidebar *
   -------- */
 
-#sidebar .well {
-    background-color: #E5E5E5;
+.well {
     border: none;
     -o-border-radius: 0;
     -moz-border-radius: 0;
