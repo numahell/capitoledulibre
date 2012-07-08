@@ -1,16 +1,20 @@
-<html><head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<title>Capitole du Libre 2012</title>
+<html>
+    
+    <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Capitole du Libre 2012</title>
 
-<meta name="keywords" content="toulouse, toulibre, drupal, ubuntu, kde, akademy, drupalcamp, ubuntu-party, logiciel libre">
-<meta name="description" content="Le Capitole du libre est l'événement toulousain majeur autour du Logiciel Libre. L'édition 2012 aura lieu les 24 et 25 novembre. ">
-<meta content="index,follow" name="robots">
-<link href="images/favicon.ico" rel="shortcut icon">
-<link href="css/bootstrap.min.css" type="text/css" rel="stylesheet" media="all">
-<link href="css/bootstrap-responsive.min.css" type="text/css" rel="stylesheet" media="all">
-<link href="css/styles.css" type="text/css" rel="stylesheet" media="screen">
+    <meta name="keywords" content="toulouse, toulibre, drupal, ubuntu, kde, akademy, drupalcamp, ubuntu-party, logiciel libre">
+    <meta name="description" content="Le Capitole du libre est l'événement toulousain majeur autour du Logiciel Libre. L'édition 2012 aura lieu les 24 et 25 novembre. ">
+    <meta content="index,follow" name="robots">
+    <link href="images/favicon.ico" rel="shortcut icon">
+    <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet" media="all">
+    <link href="css/bootstrap-responsive.min.css" type="text/css" rel="stylesheet" media="all">
+    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen">
 
-</head>
+    <link rel="profile" href="http://microformats.org/profile/hcalendar">
+
+    </head>
 <body>
 
 <div class="container">
@@ -19,66 +23,83 @@
         <div id="header" class="span12">
             <a href="#" alt="accueil"><img src="images/logo-cdl2012.png" class="align-center" alt="Logo capitole du libre" /></a>
             <h1 class="hidden">Capitole du Libre</h1>
-            <h2 class="hidden">24-25 novembre 2012</h2>
-            <h2 class="hidden">ENSEEIHT, Toulouse</h2>
+            <p class="hidden">24-25 novembre 2012</p>
+            <p class="hidden">ENSEEIHT, Toulouse</p>
         </div>
 	</div><!-- end #header -->
     
-	<div id="content" class="row">
-        <div class="span8">
+	<div id="main" class="row">
+        <div id="content" class="span8">
         
-            <div id="description">
-                <p>Le <strong>Capitole du Libre</strong> est un événement Toulousain ouvert à tous, qui propose des conférences et ateliers généralistes, techniques ou multimedia sur le logiciel libre en particulier, et le libre en général.</p>
+            <section id="description" class="vevent">
+                <p><strong class="summary">Le Capitole du Libre</strong> est un événement Toulousain ouvert à tous, qui propose des conférences et ateliers généralistes, techniques ou multimedia sur le logiciel libre en particulier, et le libre en général.</p>
                 <p>Durant cet événement, une <strong>ubuntu party</strong> (install party) sera proposée pour permettre aux visiteurs d'installer Ubuntu sur leur ordinateur.</p>
                 <p>Le Capitole du libre est également l'occasion de réunir <strong>des communautés du libre</strong>, en hébergeant des événements tels que le Drupal Camp ou Akademy-fr en 2011.</p>
-                <p>L'<a href="index.html" name="Capitole du libre 2012" title="Capitole du libre 2012">édition 2012 du Capitole du Libre</a> aura lieu les <strong>24 et 25 novembre</strong> à l'ENSEEIHT, à Toulouse.</p>
+                <p>L'<a href="http://www.capitoledulibre.org/2012/" class="url" name="Capitole du libre 2012" title="Capitole du libre 2012">édition 2012 du Capitole du Libre</a> aura lieu les <strong class="dtstart">24 et 25 novembre</strong> à <strong>l'ENSEEIHT</strong>, à Toulouse.</p>
                 <p>Sur ce site vous trouverez bientôt le programme des conférences et ateliers de cette manifestation.</p>
                 
-            </div>
+            </section>
+            
+            <section class="community-events row-fluid">
+                <div id="upt" class="community-event span4">
+                    <h3 class="hide-text">Ubuntu Party</h3>
+                    <p>Découvrir et approfondir le monde des Logiciels Libres</p>
+                </div>
+                
+                <div id="djangofr" class="community-event span4">
+                    <h3 class="hide-text">Rencontre Django FR</h3>
+                    <p>Une rencontre des utilisateurs et développeurs Django</p>
+                </div>
 
-            <div id="infos">
+                <div id="akademyfr" class="community-event span4">
+                    <h3 class="hide-text">Akademy-fr</h3>
+                    <p>Le rendez-vous de la communauté française de KDE</p>
+                </div>
+            </section>
+
+            <section id="infos">
                 <h2>Contact</h2>
-
-                <p>Pour tout renseignement concernant <i>Capitole du Libre</i>, vous pouvez contacter l'association Toulibre par <a href="mailto:contact@toulibre.org">e-mail</a>.</p>
-
-            </div>
-            <div id="orga">
+                <p>Pour tout renseignement concernant <em>Capitole du Libre</em>, vous pouvez contacter l'association Toulibre par <a href="mailto:contact@toulibre.org">e-mail</a>.</p>
+            </section>
+            
+        </div><!-- end #content -->
+        <div id="sidebar" class="span4">
+            <div class="well ">
+            <section id="orga">
                 <h2>Organisateurs</h2>
-                <ul class="logos">
-                    <li><a href="http://www.toulibre.org/" target="_blank">
+                <ul class="logos thumbnails row-fluid">
+                    <li class="span6"><a class="thumbnail" href="http://www.toulibre.org/" target="_blank">
                         <img src="images/toulibre.png" width="155" height="45" alt="logo Toulibre"></a></li>
-                    <li><a href="http://www.ubuntu-fr.org/" target="_blank">
+                    <li class="span6"><a class="thumbnail" href="http://www.ubuntu-fr.org/" target="_blank">
                         <img src="images/ubuntu-fr.png" width="155" height="46" alt="logo ubuntu-fr"></a></li>
                 </ul>
-                
-                <p>Retrouvez <a href="/2011" alt="CDL 2011">ici</a> la première édition du Capitole du Libre.</p>
 
-            </div>
-        </div>
-        <div class="span4">
-            <div id="partners">
+            </section>
+            
+            <section id="partners">
                 <h2>Partenaires 2012</h2>
-                <ul class="logos">
+                <ul class="logos thumbnails row-fluid">
 
-                    <li><a href="http://www.enseeiht.fr/" target="_blank">
+                    <li class="span6"><a class="thumbnail" href="http://www.enseeiht.fr/" target="_blank">
                         <img src="images/enseeiht.png" width="155" height="27" alt="Logo ENSEEIHT" /></a></li>
-                    <li><a href="http://www.toulouse.fr/" target="_blank">
+                    <li class="span6"><a class="thumbnail" href="http://www.toulouse.fr/" target="_blank">
                         <img src="images/logo-toulouse.png" width="150" height="22" alt="Logo Toulouse" /></a></li>
                 </ul>
-            </div>
+            </section>
             
-            <div id="editions-precedentes">
+            <section id="editions-precedentes">
                 <h2>Les éditions précédentes</h2>
-                <ul>
-                    <li><a href="/2011" alt="Capitole du libre 2011">Capitole du Libre 2011</a></li>
-                </ul>
-                Et avant, il n'y avait que l'Ubuntu Party !
+                <p>Retrouvez <a href="/2011" alt="Capitole du libre 2011">la première édition du Capitole du Libre</a>.</p>
+                <p>Et avant, il n'y avait que l'Ubuntu Party :</p>
                 <ul>
                     <li><a href="http://www.toulibre.org/ubuntuparty2010" alt="Ubuntu Party 2010">Ubuntu Party 2010</a></li>
                     <li><a href="http://www.toulibre.org/ubuntuparty2009" alt="Ubuntu Party 2009">Ubuntu Party 2009</a></li>			
                 </ul>
+            </section>
+            
             </div>
-        </div>
+            
+        </div><!-- end #sidebar -->
     </div>
 </div>
 
