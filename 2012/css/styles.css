@@ -88,15 +88,15 @@ h1, h2 { color: #E4401F; }
 }
 
 .community-event h3 {
-    background: url('../images/upt.png') no-repeat 8px 8px transparent;
-    background-size: contain;
-    height: 155px;
+    background: url('../images/upt.png') no-repeat top center transparent;
+    background-size: 90% auto;
+    height: 60px;
 }
 #djangofr h3 {
-	background-image: url('../images/djangofr.png');
+	background-image: url('../images/django-fr.png');
 }
 #akademyfr h3 {
-	background-image: url('../images/akademyfr.png');
+	background-image: url('../images/akademy-fr.png');
 }
 #upt h3 {
 	background-image: url('../images/upt.png');
