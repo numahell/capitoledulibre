@@ -117,6 +117,7 @@ h1, h2 { color: #E4401F; }
 
 #sidebar .well {
     border-left: 1px dotted #E4401F;
+    padding-top: 0px;
 }
 .well {
     border: none;
