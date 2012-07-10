@@ -32,6 +32,9 @@ h1, h2 { color: #E4401F; }
     margin-left: -1px;
     color: transparent;
 }
+.navbar {
+    margin-bottom: 0;
+}
 
 /* homepage *
   --------- */
