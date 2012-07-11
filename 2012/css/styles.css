@@ -100,7 +100,7 @@ h1, h2 { color: #E4401F; }
 .community-event h3 {
     background: url('../images/upt.png') no-repeat top center transparent;
     background-size: 90% auto;
-    height: 60px;
+    height: 70px;
 }
 #djangofr h3 {
 	background-image: url('../images/django-fr.png');
