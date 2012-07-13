@@ -1,5 +1,4 @@
 body {
-  font-family: sans;
   font-size: 14px;
   margin-top: 0;
   color: #333;
@@ -21,7 +20,7 @@ h3,
 h4,
 h5,
 h6 {
-  margin-bottom: 1.2em;
+  margin-bottom: 0.75em;
 }
 p {
   font-size: 100%;
@@ -31,14 +30,14 @@ p small {
 }
 h1 {
   font-size: 187.5%;
-  line-height: 2.25em;
+  line-height: 2em;
 }
 h1 small {
   font-size: 112.5%;
 }
 h2 {
   font-size: 150%;
-  line-height: 2.25em;
+  line-height: 2em;
 }
 h2 small {
   font-size: 112.5%;
@@ -69,7 +68,12 @@ h6 {
   color: #999999;
   text-transform: uppercase;
 }
-
+li {
+  font-size: 100%;
+}
+ul ul li {
+	list-style-type: circle;
+}
 #header a,
 .logos a {
   border-bottom: 0px;
