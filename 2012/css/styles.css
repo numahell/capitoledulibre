@@ -6,12 +6,9 @@ body {
 a:link, a:visited {
   color: #333;
   font-weight: bold;
-  text-decoration: none;
-  border-bottom: 1px dotted #333;
 }
 a:hover {
   color: #E4401F;
-  border-bottom:1px dotted #E4401F;
 }
 p,
 h1,
@@ -92,6 +89,9 @@ h1, h2 { color: #E4401F; }
 }
 .navbar {
   margin-bottom: 0;
+}
+.align-right {
+  text-align: right;
 }
 
 /* homepage *
@@ -212,4 +212,12 @@ h1, h2 { color: #E4401F; }
   margin: 0 1em 0.5em 0;
   font-size: 85%;
   font-style: italic;
+}
+
+/* Footer *
+ * ------ */
+
+footer {
+	padding: 1em 0;
+	border-top: 1px solid #CCC;
 }
